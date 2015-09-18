@@ -8,7 +8,7 @@ var App = React.createClass({
     };
     return(
       <div>
-        <h1>Shopping for Charity</h1>
+        <h1>Shoppor Charity</h1>
       </div>
     );
   }
