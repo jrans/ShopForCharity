@@ -41,7 +41,7 @@
     "webpack-dev-server": "^1.11.0"
   },
   "dependencies": {
-    "hapi": "^10.0.0",
+    "hapi": "^18.1.0",
     "inert": "^3.0.1"
   }
 }
